@@ -150,6 +150,6 @@ def main_funtion():
         print("Error: ", e)
         exit(0)
     print ( f.filename + " - " + str(total_hrs) +
-          " hour(s) " + str(total_min) + " and minute(s)")
+          " hours " + str(total_min) + "  minutes")
     return ( f.filename + " - " + str(total_hrs) +
-          " hour(s) " + str(total_min) + " and minute(s)")
+          " hours " + str(total_min) + "  minutes")
